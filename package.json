@@ -1,0 +1,26 @@
+{
+  "name": "webpack-react-starter",
+  "version": "1.0.0",
+  "description": "Minimalistic ES5 ReactJS and Webpack starter template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volodymyrrudyi/webpack-react-starter.git"
+  },
+  "keywords": [
+    "reactjs",
+    "webpack",
+    "starter",
+    "kit",
+    "es5"
+  ],
+  "author": "Volodymyr Rudyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volodymyrrudyi/webpack-react-starter/issues"
+  },
+  "homepage": "https://github.com/volodymyrrudyi/webpack-react-starter#readme"
+}
